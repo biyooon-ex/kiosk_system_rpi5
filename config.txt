@@ -69,4 +69,5 @@ dtoverlay=ramoops
 
 # Enable the UART (/dev/ttyAMA0)
 enable_uart=1
+dtoverlay=uart0-pi5
 
